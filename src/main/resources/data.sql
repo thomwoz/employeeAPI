@@ -1,0 +1,9 @@
+INSERT INTO employees (id, first_name, last_name, email, job) VALUES (1, 'Jan', 'Kowalski', 'jankowalski@gmail.com', 'Wiceprezes');
+INSERT INTO employees (id, first_name, last_name, email, job) VALUES (2, 'Arkadiusz', 'Nowak', 'arkadiusznowak@gmail.com', 'Grafik');
+INSERT INTO employees (id, first_name, last_name, email, job) VALUES (3, 'Joanna', 'Chmura', 'joannachmura@gmail.com', 'Prezes');
+INSERT INTO employees (id, first_name, last_name, email, job) VALUES (4, 'Waldemar', 'Szczepanowski', 'waldek150@gmail.com', 'Kierowca');
+INSERT INTO employees (id, first_name, last_name, email, job) VALUES (5, 'Jan', 'Borzym', 'janborzym@gmail.com', 'Kierowca');
+INSERT INTO employees (id, first_name, last_name, email, job) VALUES (6, 'Mirosław', 'Panek', 'mirekpanek@gmail.com', 'Manager');
+INSERT INTO employees (id, first_name, last_name, email, job) VALUES (7, 'Anna', 'Manna', 'annamanna@gmail.com', 'Grafik');
+INSERT INTO employees (id, first_name, last_name, email, job) VALUES (8, 'Katarzyna', 'Polska', 'kpolska@gmail.com', 'Kierowca');
+INSERT INTO employees (id, first_name, last_name, email, job) VALUES (9, 'Marek', 'Kowalski', 'marekkowalski@gmail.com', 'Wiceprezes');
